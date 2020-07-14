@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/btcjson"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcutil"
 )
 

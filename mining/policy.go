@@ -5,8 +5,8 @@
 package mining
 
 import (
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/btcd/blockchain"
+	"github.com/tjaxer/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

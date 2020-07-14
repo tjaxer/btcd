@@ -17,9 +17,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/database"
+	"github.com/tjaxer/btcd/wire"
 )
 
 const (

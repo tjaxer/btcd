@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/database"
 	"github.com/btcsuite/btcutil"
 )
 

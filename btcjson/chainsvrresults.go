@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 
