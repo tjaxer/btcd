@@ -10,7 +10,7 @@ import (
 
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/tjaxer/btcd/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

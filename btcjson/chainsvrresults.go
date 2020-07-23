@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // GetBlockHeaderVerboseResult models the data from the getblockheader command when

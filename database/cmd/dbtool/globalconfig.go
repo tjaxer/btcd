@@ -14,7 +14,7 @@ import (
 	"github.com/tjaxer/btcd/database"
 	_ "github.com/tjaxer/btcd/database/ffldb"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 var (

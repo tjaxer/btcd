@@ -15,7 +15,7 @@ import (
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/database"
 	"github.com/tjaxer/btcd/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // dbType is the database type name for this driver.

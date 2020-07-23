@@ -17,12 +17,12 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/btcsuite/goleveldb/leveldb"
+	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/database"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/goleveldb/leveldb"
-	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"
+	"github.com/tjaxer/btcutil"
 )
 
 var (

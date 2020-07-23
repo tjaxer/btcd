@@ -8,7 +8,7 @@ import (
 	"github.com/tjaxer/btcd/btcec"
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

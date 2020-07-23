@@ -11,7 +11,7 @@ import (
 	"github.com/tjaxer/btcd/database"
 	"github.com/tjaxer/btcd/txscript"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // txoFlags is a bitmask defining additional information and state for a

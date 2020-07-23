@@ -18,7 +18,7 @@ import (
 
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/tjaxer/btcd/mining"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // TODO incorporate Alex Morcos' modifications to Gavin's initial model

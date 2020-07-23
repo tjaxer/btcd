@@ -15,7 +15,7 @@ import (
 	"github.com/tjaxer/btcd/btcjson"
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // FutureDebugLevelResult is a future promise to deliver the result of a

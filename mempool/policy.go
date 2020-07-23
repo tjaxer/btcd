@@ -11,7 +11,7 @@ import (
 	"github.com/tjaxer/btcd/blockchain"
 	"github.com/tjaxer/btcd/txscript"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 const (

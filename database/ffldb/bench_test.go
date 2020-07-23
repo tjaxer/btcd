@@ -11,7 +11,7 @@ import (
 
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

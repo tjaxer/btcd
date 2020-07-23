@@ -11,7 +11,7 @@ import (
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/tjaxer/btcd/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

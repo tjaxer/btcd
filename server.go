@@ -36,8 +36,8 @@ import (
 	"github.com/tjaxer/btcd/peer"
 	"github.com/tjaxer/btcd/txscript"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/tjaxer/btcutil"
+	"github.com/tjaxer/btcutil/bloom"
 )
 
 const (

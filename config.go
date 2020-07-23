@@ -20,6 +20,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/btcsuite/go-socks/socks"
+	flags "github.com/jessevdk/go-flags"
 	"github.com/tjaxer/btcd/blockchain"
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
@@ -28,9 +30,7 @@ import (
 	_ "github.com/tjaxer/btcd/database/ffldb"
 	"github.com/tjaxer/btcd/mempool"
 	"github.com/tjaxer/btcd/peer"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/go-socks/socks"
-	flags "github.com/jessevdk/go-flags"
+	"github.com/tjaxer/btcutil"
 )
 
 const (

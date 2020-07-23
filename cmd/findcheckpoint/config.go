@@ -9,12 +9,12 @@ import (
 	"os"
 	"path/filepath"
 
+	flags "github.com/jessevdk/go-flags"
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/database"
 	_ "github.com/tjaxer/btcd/database/ffldb"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	flags "github.com/jessevdk/go-flags"
+	"github.com/tjaxer/btcutil"
 )
 
 const (

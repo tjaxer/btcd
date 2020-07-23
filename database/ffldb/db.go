@@ -14,11 +14,6 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/tjaxer/btcd/chaincfg/chainhash"
-	"github.com/tjaxer/btcd/database"
-	"github.com/tjaxer/btcd/database/internal/treap"
-	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
 	"github.com/btcsuite/goleveldb/leveldb"
 	"github.com/btcsuite/goleveldb/leveldb/comparer"
 	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"
@@ -26,6 +21,11 @@ import (
 	"github.com/btcsuite/goleveldb/leveldb/iterator"
 	"github.com/btcsuite/goleveldb/leveldb/opt"
 	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/database"
+	"github.com/tjaxer/btcd/database/internal/treap"
+	"github.com/tjaxer/btcd/wire"
+	"github.com/tjaxer/btcutil"
 )
 
 const (

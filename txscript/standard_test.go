@@ -12,7 +12,7 @@ import (
 
 	"github.com/tjaxer/btcd/chaincfg"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 // mustParseShortForm parses the passed short form script and returns the

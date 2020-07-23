@@ -12,9 +12,9 @@ import (
 	"github.com/tjaxer/btcd/chaincfg/chainhash"
 	"github.com/tjaxer/btcd/database"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
-	"github.com/btcsuite/btcutil/gcs/builder"
+	"github.com/tjaxer/btcutil"
+	"github.com/tjaxer/btcutil/gcs"
+	"github.com/tjaxer/btcutil/gcs/builder"
 )
 
 const (

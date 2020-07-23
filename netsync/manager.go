@@ -19,7 +19,7 @@ import (
 	"github.com/tjaxer/btcd/mempool"
 	peerpkg "github.com/tjaxer/btcd/peer"
 	"github.com/tjaxer/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/btcutil"
 )
 
 const (
